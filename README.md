@@ -1,1 +1,1 @@
-I am training to work with git and ssh keys!
+Change this file to see, how my commits looks like at work.
